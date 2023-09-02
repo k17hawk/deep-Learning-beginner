@@ -1,5 +1,5 @@
 Relu 
-ReLU (Rectified Linear Unit) is an regression activation function commonly used in neural networks to add non linearity properities in our network. 
+ReLU (Rectified Linear Unit) is an regression activation function commonly used in neural networks to add non linearity properties in network. 
 
 <img src="https://github.com/k17hawk/deep-Learning-beginner/blob/main/Screenshot%20from%202023-08-31%2019-21-05.png"/>
 
